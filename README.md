@@ -1,1 +1,27 @@
-# sports-football
+#  Ict-Project sports-football
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <!--
+      Need a visual blank slate?
+      Remove all code in `styles.css`!
+    -->
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <i> 09 may 2025 </i>
+    <br> 
+    <strong> sports football </strong>
+    <br>
+    <p> I like alot football is a part of my life  </p>
+    <a href=""> partial ict
+    <ul>
+    <strong>  sports  </strong>
+      <li> football </li>
+      <p> I start playing when i have 6 years and i like it alot and i have 4 teams during this years </p>
+      <li> tournaments </li>
+      <p> I play around the world like cancun, swedeen, denmark adn in diferent parts of mexico  </p>
+      <li> Me </li>
+      <p>  I born in 12 of september of 2011 i born in mexico </p>
+      
