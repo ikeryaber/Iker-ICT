@@ -19,9 +19,9 @@
     <ul>
     <strong>  sports  </strong>
       <li> football </li>
-      <p> I start playing when i have 6 years and i like it alot and i have 4 teams during this years </p>
+      <p> I start playing when i have 6 years and i like it alot and i have 4 teams during this years, i have a lot o fun playing soccer because it is my hobby and all the days y play with other people that at are my friends </p>
       <li> tournaments </li>
       <p> I play around the world like cancun, swedeen, denmark adn in diferent parts of mexico  </p>
       <li> Me </li>
-      <p>  I born in 12 of september of 2011 i born in mexico </p>
+      <p>  I born in 12 of september of 2011 i born in mexico and i have one brother and one dog </p>
       
